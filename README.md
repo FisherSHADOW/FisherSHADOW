@@ -7,7 +7,7 @@
 <h2 align="center" style="font-size:30px"; >🔶Fisher SHADOW🔶</h2>
 
 <div align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&pause=200&color=F76565&vCenter=true&width=435&lines=Front-end+dev+student;Graphic+designer;I+Like+to+learn+new+stuffs+;while+(!(succeed+%3D+try()+)+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&pause=200&color=F76565&center=true&vCenter=true&width=435&lines=Front-end+dev+student;Graphic+designer;I+Like+to+learn+new+stuffs+;while+(!(succeed+%3D+try()+)+)" alt="Typing SVG" /></a>
 
 </div>
 
