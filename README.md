@@ -4,10 +4,10 @@
 
 ###
 
-<h2 align="center" style="font-size:30px"; >🔶Fisher SHADOW🔶</h2>
+<h2 align="center" style="font-size:30px"; >⚜️Fisher SHADOW⚜️</h2>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&pause=200&color=F76565&center=true&vCenter=true&width=435&lines=Front-end+dev+student;Graphic+designer;I+Like+to+learn+new+stuffs+;while+(!(succeed+%3D+try()+)+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=30&pause=500&color=F75858&center=true&vCenter=true&width=435&lines=%3CFront-end+dev+student%3E;.Graphic+designer!.;active+learner%2Fresearcher%2C%2C%2C;I+Like+to+learn+new+stuffs%3C3;.while+(!(succeed%3Dtry()+)+)." alt="Typing SVG" /></a>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2 align="center" style="color:#7289da;">🔧Discord Status🔧<br></h2>
+<h2 align="center" style="color: #13a982;">🔰Discord Status🔰<br></h2>
 
 <h2 align=center> <img src="https://lanyard.cnrad.dev/api/564399912830238720"></h2>
 
