@@ -24,7 +24,7 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2 align="center" style="color: #13a982;">🔰Discord Status🔰<br></h2>
+<h2 align="center" style="color: #13a982";>🔰Discord Status🔰<br></h2>
 
 <h2 align=center> <img src="https://lanyard.cnrad.dev/api/564399912830238720"></h2>
 
