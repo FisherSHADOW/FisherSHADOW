@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdiMmZiMTFiNzBmZThjNGZjNmZiYThhYTMzZmE4Y2ZjZmM4M2ZlNyZjdD1n/rafcn90lJfdyxt0vEe/giphy.gif"  />
+  <a href="https://ibb.co/Z23RCL4"><img  height="350" src="https://i.ibb.co/dmSsyWC/Fisher-SHADOW.jpg" alt="Fisher-SHADOW" border="0"></a>
 </div>
 
 ###
@@ -23,7 +23,9 @@
 </div>
 
 ###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <h2 align="center" style="color: #13a982";>🔰Discord Status🔰<br></h2>
 
 <h2 align=center> <img src="https://lanyard.cnrad.dev/api/564399912830238720"></h2>
@@ -40,6 +42,7 @@
 </div>
 
 ###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br clear="both">
@@ -52,12 +55,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center"> 
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=FisherSHADOW&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FisherShadow&label=Profile%20Views&color=4&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=FisherShadow&label=Profile%20Views&color=4&icon=2&pretty=true)](https://visitcount.itsvg.in)
